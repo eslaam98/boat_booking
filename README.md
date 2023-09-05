@@ -1,16 +1,9 @@
-# boat_booking
+السلام عليكم ، اولا شكرا علي المجهود الجبار 
 
-A new Flutter project.
+ثانيا لو مهتم بتقدر تتواصل مع الشركه بحيث نشتغل مع بعض في مشاريع مستقبليه او بدوام كامل و نتفق علي طريقة العمل
 
-## Getting Started
+موقع الشركه
+https://tech-go.net/
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+واتس اب
++971501927944
